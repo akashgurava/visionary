@@ -1,0 +1,1 @@
+MP4Box -add BL_RPU.hevc:dv-profile=8 -add "1.eng.eac3":sopt:gfreg=ffdmx -lang 2=eng -name 2="TrueHD Atmos 7.1" -delay 2=0 -brand mp42isom -ab dby1 "Edge.of.Tomorrow.2014.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.HYBRiD.REMUX-FraMeSToR DV-MP4.mp4"

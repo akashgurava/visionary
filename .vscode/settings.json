@@ -2,7 +2,9 @@
     "python.formatting.provider": "black",
     "cSpell.words": [
         "DOVI",
+        "Etmnt",
         "isin",
+        "pymediainfo",
         "subrip"
     ]
 }
