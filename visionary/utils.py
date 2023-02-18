@@ -11,7 +11,7 @@ def convert_bytes(num):
         num /= 1024.0
 
 
-def file_size(path: Path):
+def get_file_size(path: Path):
     """
     this function will return the file size
     """
